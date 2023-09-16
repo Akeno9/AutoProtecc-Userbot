@@ -3,3 +3,5 @@ requests
 bs4
 tgcrypto==1.2.3
 python-dotenv
+flask
+gunicorn 
